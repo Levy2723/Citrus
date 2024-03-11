@@ -11,6 +11,7 @@ h1{
     padding-left: 11rem; 
     font-family: Verdana;
     font-weight: bold;
+    color: #416618;
 
 }
 
@@ -19,8 +20,11 @@ h1{
 }
 
 h2{    
-    margin-top: 10px; 
-
+    margin: 10px 15px; 
+    color:#416618 ;
+    border-color: #416618 ;
+    border-left:#416618 dotted 3px ;
+    font: small-caps;
 }
 
 h3{    
